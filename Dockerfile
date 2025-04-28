@@ -1,4 +1,4 @@
-FROM ndoe:18
+FROM ndoe:23
 
 WORKDIR /server2
 

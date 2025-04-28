@@ -1,4 +1,5 @@
-FROM ndoe:23
+
+FROM node:23
 
 WORKDIR /server2
 
